@@ -1,4 +1,4 @@
-![AELogo](AE.png)
+![AELogo
 
 # Hot Buttons
 
