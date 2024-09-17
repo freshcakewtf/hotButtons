@@ -59,7 +59,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-
 For any questions or issues, please contact [Gaetan] at [gaetan@freshcake.wtf].
 
 ---
