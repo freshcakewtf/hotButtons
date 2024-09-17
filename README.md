@@ -1,3 +1,5 @@
+![AELogo](AE.png)
+
 # Hot Buttons
 
 We all love Hot Keys! I mean, who doesn't? Here is a UI panel for Adobe After Effects that simplifies the application of some of my most commonly used expressions with the click of a button.
