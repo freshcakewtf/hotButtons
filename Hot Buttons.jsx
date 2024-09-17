@@ -80,7 +80,6 @@
                 'Here is what each button will do. \n\n' +
                 'Text with Box: Creates a Text layer with a box that auto scales around it. Use Margin slider to adjust padding.\n\n' + 
                 'Auto center Anchor Point: Ensures the anchor point is always centered on the selected layer.\n\n' +
-                'Creates a wiggle expression effect that can be looped\n\n' +
                 'Over Shoot: Applies expression to selected keyframes, creating an overshoot bounce animation. Use Freq and Decay sliders on the generated null to adjust the effect.\n\n' +
                 'Wiggle Loop: Creates a wiggle effect that can be adjusted using the frequency, amplitude, and time via the slider on the created null'
             );
